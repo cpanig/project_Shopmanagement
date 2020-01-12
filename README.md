@@ -1,8 +1,7 @@
-# project_login
-
+# 电商后台管理系统项目
 ## Project setup
 ```
-npm install
+
 ```
 
 ### Compiles and hot-reloads for development
